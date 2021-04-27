@@ -1,0 +1,45 @@
+body{
+    background-size: cover;
+}
+
+.header{
+    width: 100%;
+    font-size: 35px;
+    font-family: 'Patrick Hand', cursive;
+    margin: 0px;
+}
+
+.note{
+    color: white;
+    font-family: 'New Tegomin', cursive;
+    font-size: 25px;
+}
+
+#song_name{
+    font-size: 35px; 
+    font-family: 'Satisfy', cursive;
+    width: 400px;
+}
+
+b{
+    color: black;
+}
+
+#footer{
+    position: fixed;
+    color: white;
+    font-family: 'Patrick Hand', cursive;
+    bottom: 0;
+    font-size: 25px;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+ }
+ 
+ canvas{
+   border: 5px solid white;
+   border-radius: 20px;
+   box-shadow: 5px 5px 5px grey;
+   margin-top: 200px;
+ }
